@@ -28,11 +28,18 @@ button:hover{
     background-color: #0056b3;
 }
 .card {
+    display: flex;
+    align-items: center;
     background-color: #fff;
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 10px;
-    box-shadow: 0 2px 4px rgba(red, green, blue, alpha);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card img {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
 }
 .dark-mode {
     background-color: #333;

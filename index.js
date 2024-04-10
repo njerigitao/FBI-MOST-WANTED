@@ -19,8 +19,11 @@ function renderList(individuals){
         const card = document.createElement('div');
         card.classList.add('card');
         card.innerHTML = `
+        <img src ="${individual.images[0].large}">
+        <div>
         <h2>${individual.title}</h2>
         <p>${individual.description}</p>
+        </div>
         `;
         wantedList.appendChild(card);
     });
