@@ -1,7 +1,7 @@
 h1{
     background-color: black;
     color: darkorange;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     transition: background-color 0.3s ease;
 }
 .container {
