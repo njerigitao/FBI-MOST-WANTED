@@ -1,1 +1,22 @@
-{}
+{
+  "name": "fbi-most-wanted",
+  "description": "##### By *Gitau Agnes Njeri*",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njerigitao/FBI-MOST-WANTED.git"
+  },
+  "keywords": [
+    "FBI-MOST-WANTED"
+  ],
+  "author": "*Gitau Agnes Njeri*",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njerigitao/FBI-MOST-WANTED/issues"
+  },
+  "homepage": "https://github.com/njerigitao/FBI-MOST-WANTED#readme"
+}
