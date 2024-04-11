@@ -13,4 +13,19 @@ This app contains profiles of the most wanted people by the Federal Beural of In
 ## Installation
 1. Clone this repository to your local environment.
 2. Navigate to the directory in the terminal, then run code . to open the files in VS Code.
-3. Open the index.html file in your browser
+3. Open the index.html file in your browser.
+4. Input a valid individual name on the search button, click search to submit, and review the generated data on the individual.
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://github.com/njerigitao/FBI-MOST-WANTED
+
+```
+## Support and contact
+github.com/njerigitao
+
+### License
+The content of this site is licensed under the MIT license copyright (c) 2024.
